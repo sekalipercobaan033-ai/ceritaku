@@ -1,0 +1,29 @@
+[
+  {
+    "judul": "Chapter 1: Awal Mula",
+    "teks": "Pagi itu Rina berjalan menuju sekolah barunya. Hatinya berdebar, karena ia tidak mengenal siapa pun di sana. Di depan gerbang, seorang anak laki-laki bernama Budi menyapanya dengan senyum lebar.",
+    "kuis": [
+      {
+        "tanya": "Siapa tokoh utamanya?",
+        "pilihan": ["Rina", "Budi", "Sari"],
+        "jawab": 0
+      },
+      {
+        "tanya": "Siapa yang menyapa Rina di gerbang?",
+        "pilihan": ["Guru", "Budi", "Satpam"],
+        "jawab": 1
+      }
+    ]
+  },
+  {
+    "judul": "Chapter 2: Teman Baru",
+    "teks": "Budi mengajak Rina berkeliling sekolah. Mereka berhenti di perpustakaan, tempat favorit Budi.",
+    "kuis": [
+      {
+        "tanya": "Ke mana Budi mengajak Rina?",
+        "pilihan": ["Kantin", "Perpustakaan", "Lapangan"],
+        "jawab": 1
+      }
+    ]
+  }
+]
