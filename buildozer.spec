@@ -1,4 +1,7 @@
 [app]
+p4a.branch = v2024.01.21
+android.ndk = 25b
+android.api = 33
 title = Ceritaku
 package.name = ceritaku
 package.domain = org.ceritaku
@@ -14,6 +17,3 @@ android.accept_sdk_license = True
 [buildozer]
 log_level = 2
 warn_on_root = 1
-p4a.branch = v2024.01.21
-android.ndk = 25b
-android.api = 33
